@@ -6210,11 +6210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samab\\source\\Repos\\QueuingApp\\QueuingApp\\QueuingApp.csproj",
+      "projectUniqueName": "C:\\Users\\samab\\source\\Repos\\New\\QueuingApp\\QueuingApp\\QueuingApp.csproj",
       "projectName": "QueuingApp",
-      "projectPath": "C:\\Users\\samab\\source\\Repos\\QueuingApp\\QueuingApp\\QueuingApp.csproj",
+      "projectPath": "C:\\Users\\samab\\source\\Repos\\New\\QueuingApp\\QueuingApp\\QueuingApp.csproj",
       "packagesPath": "C:\\Users\\samab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samab\\source\\Repos\\QueuingApp\\QueuingApp\\obj\\",
+      "outputPath": "C:\\Users\\samab\\source\\Repos\\New\\QueuingApp\\QueuingApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samab\\AppData\\Roaming\\NuGet\\NuGet.Config",
