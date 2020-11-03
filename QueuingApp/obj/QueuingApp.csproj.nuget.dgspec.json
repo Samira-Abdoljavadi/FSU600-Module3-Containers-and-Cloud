@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samab\\source\\Repos\\New\\QueuingApp\\QueuingApp\\QueuingApp.csproj": {}
+    "H:\\Container And Cloud\\QueuingApp\\QueuingApp\\QueuingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samab\\source\\Repos\\New\\QueuingApp\\QueuingApp\\QueuingApp.csproj": {
+    "H:\\Container And Cloud\\QueuingApp\\QueuingApp\\QueuingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samab\\source\\Repos\\New\\QueuingApp\\QueuingApp\\QueuingApp.csproj",
+        "projectUniqueName": "H:\\Container And Cloud\\QueuingApp\\QueuingApp\\QueuingApp.csproj",
         "projectName": "QueuingApp",
-        "projectPath": "C:\\Users\\samab\\source\\Repos\\New\\QueuingApp\\QueuingApp\\QueuingApp.csproj",
-        "packagesPath": "C:\\Users\\samab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samab\\source\\Repos\\New\\QueuingApp\\QueuingApp\\obj\\",
+        "projectPath": "H:\\Container And Cloud\\QueuingApp\\QueuingApp\\QueuingApp.csproj",
+        "packagesPath": "C:\\Users\\saab0029\\.nuget\\packages\\",
+        "outputPath": "H:\\Container And Cloud\\QueuingApp\\QueuingApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\samab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\saab0029\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
