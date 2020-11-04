@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saab0029\\Source\\Repos\\FSU600-Module3-Containers-and-Cloud2\\QueuingApp\\QueuingApp.csproj": {}
+    "C:\\Users\\samab\\Source\\Repos\\FSU600-Module3-Containers-and-Cloud\\QueuingApp\\QueuingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saab0029\\Source\\Repos\\FSU600-Module3-Containers-and-Cloud2\\QueuingApp\\QueuingApp.csproj": {
+    "C:\\Users\\samab\\Source\\Repos\\FSU600-Module3-Containers-and-Cloud\\QueuingApp\\QueuingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saab0029\\Source\\Repos\\FSU600-Module3-Containers-and-Cloud2\\QueuingApp\\QueuingApp.csproj",
+        "projectUniqueName": "C:\\Users\\samab\\Source\\Repos\\FSU600-Module3-Containers-and-Cloud\\QueuingApp\\QueuingApp.csproj",
         "projectName": "QueuingApp",
-        "projectPath": "C:\\Users\\saab0029\\Source\\Repos\\FSU600-Module3-Containers-and-Cloud2\\QueuingApp\\QueuingApp.csproj",
-        "packagesPath": "C:\\Users\\saab0029\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saab0029\\Source\\Repos\\FSU600-Module3-Containers-and-Cloud2\\QueuingApp\\obj\\",
+        "projectPath": "C:\\Users\\samab\\Source\\Repos\\FSU600-Module3-Containers-and-Cloud\\QueuingApp\\QueuingApp.csproj",
+        "packagesPath": "C:\\Users\\samab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samab\\Source\\Repos\\FSU600-Module3-Containers-and-Cloud\\QueuingApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\saab0029\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\samab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
